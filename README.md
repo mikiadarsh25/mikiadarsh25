@@ -15,7 +15,7 @@
 - ⚡ Fun fact: I'm just an ![age](https://img.shields.io/badge/age-20-blue) Tea 😄
 - 😊 Skills: Quick Learner in All Field 😉
 - 😜 Ask me: About any tech stack i know about 😎
-
+- 😄 Selfish: 100%(by resluts) * 0(by my efforts 😢 
 <img align="center" src="./assets/git.png?raw=true"/>
 
 ![mikiadarsh25's Github Stats](https://github-readme-stats.vercel.app/api?username=mikiadarsh25&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
