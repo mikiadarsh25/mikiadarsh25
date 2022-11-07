@@ -2,7 +2,7 @@
 
 𝗜'𝗺 [Adarsh](https://github.com/mikiadarsh25)
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/white_fangwa/)](https://www.twitter.com/white_fangwa/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/mikiadarsh25/)](https://www.twitter.com/mikiadarsh25/)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mikiadarsh25)](https://github.com/mikiadarsh25)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mikiadarsh25)
 
