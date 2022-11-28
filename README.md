@@ -12,7 +12,7 @@
 - 𝑰 𝒂𝒎 𝒂 𝑪𝒐𝒍𝒍𝒆𝒈𝒆 𝒔𝒕𝒖𝒅𝒆𝒏𝒕 : Mechanical Engineering ❤
 - 🔭 I’m currently working on Making some unique things with Python 😋 
 - 🌱 I’m currently learning Python as an Hobby !!!
-- ⚡ Fun fact: I'm just an ![age](https://img.shields.io/badge/age-20-blue) Tea 😄
+- ⚡ Fun fact: I'm just an ![age](https://img.shields.io/badge/age-22-blue)  😄
 - 😊 Skills: Quick Learner in All Field 😉
 - 😜 Ask me: About any tech stack i know about 😎
 - 😄 Selfish: 100%(by results) * 0(by my efforts 😢 
