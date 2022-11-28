@@ -19,5 +19,24 @@
 - <img src="https://media1.giphy.com/media/JVeNlfprxQlVe/giphy.gif?cid=82a1493bvco9f0d6xrz6v6t19noymdao8o3633nn9pzyb9zm&rid=giphy.gif" width="50">
 <img align="center" src="./assets/git.png?raw=true"/>
 
+
+
+## Follow on:
+<p align="left">
+<a href="https://github.com/mikiadarsh25"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
+</p>
+<p align="center">
+<a href="https://twitter.com/mikiadarsh25"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a>
+</p>
+<p align="right">
+<a href="https://www.facebook.com/kakashi.hatake078"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
+</p>
+<p align="left">
+<a href="https://instagram.com/adarsh_mickey"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
+</p>
+<p align="center">
+<a href="https://replit.com/@ADARSHPRAKASH2/Hangman?v=1"><img src="https://img.shields.io/badge/Replit-Follow%20on%20Replit-informational.svg?logo=replit"></a>
+</p>
+
 ![mikiadarsh25's Github Stats](https://github-readme-stats.vercel.app/api?username=mikiadarsh25&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
