@@ -4,7 +4,7 @@
 
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/mikiadarsh25/)](https://www.twitter.com/mikiadarsh25/)
-[![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mikiadarsh25)](https://github.com/mikiadarsh25)
+[![Github Badge](https://img.shields.io/badge/-MyPage-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mikiadarsh25)](https://github.com/mikiadarsh25)
 [![My Page](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://mikiadarsh25.github.io/test.github.io/)](https://mikiadarsh25.github.io/test.github.io/)
 
 
