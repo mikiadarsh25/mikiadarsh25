@@ -1,13 +1,14 @@
 # Hello<img src="https://media2.giphy.com/media/zwDNti5vWFujS/giphy.gif" width="50">
 
-𝗜'𝗺 [Adarsh](https://github.com/mikiadarsh25)
+𝗜'𝗺 [Adarsh]([https://mikiadarsh25.github.io/test.github.io/])
+
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/mikiadarsh25/)](https://www.twitter.com/mikiadarsh25/)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mikiadarsh25)](https://github.com/mikiadarsh25)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mikiadarsh25)
 
 
-<img align="center" src="./assets/about.png?raw=true"/ href ="https://mikiadarsh25.github.io/test.github.io/">
+<img align="center" src="./assets/about.png?raw=true"/ >
 
 - 𝑰 𝒂𝒎 𝒂 𝑪𝒐𝒍𝒍𝒆𝒈𝒆 𝒔𝒕𝒖𝒅𝒆𝒏𝒕 : Mechanical Engineering ❤
 - 🔭 I’m currently working on Making some unique things with Python 😋 
