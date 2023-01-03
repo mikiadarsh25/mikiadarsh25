@@ -1,6 +1,6 @@
 # Hello<img src="https://media2.giphy.com/media/zwDNti5vWFujS/giphy.gif" width="50">
 
-𝗜'𝗺 [Adarsh]([https://mikiadarsh25.github.io/test.github.io/])
+𝗜'𝗺 [![Adarsh]]([https://mikiadarsh25.github.io/test.github.io/])
 
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/mikiadarsh25/)](https://www.twitter.com/mikiadarsh25/)
