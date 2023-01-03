@@ -1,6 +1,6 @@
 # Hello<img src="https://media2.giphy.com/media/zwDNti5vWFujS/giphy.gif" width="50">
 
-𝗜'𝗺 [![Adarsh]]([https://mikiadarsh25.github.io/test.github.io/])
+𝗜'𝗺 [Adarsh]([https://mikiadarsh25.github.io/test.github.io/])
 
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/mikiadarsh25/)](https://www.twitter.com/mikiadarsh25/)
@@ -26,16 +26,16 @@
 <p align="left">
 <a href="https://github.com/mikiadarsh25"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
 </p>
-<p align="center">
+<p align="left">
 <a href="https://twitter.com/mikiadarsh25"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a>
 </p>
-<p align="right">
+<p align="left">
 <a href="https://www.facebook.com/kakashi.hatake078"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
 </p>
 <p align="left">
 <a href="https://instagram.com/adarsh_mickey"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
 </p>
-<p align="center">
+<p align="left">
 <a href="https://replit.com/@ADARSHPRAKASH2/Hangman?v=1"><img src="https://img.shields.io/badge/Replit-Follow%20on%20Replit-informational.svg?logo=replit"></a>
 </p>
 
