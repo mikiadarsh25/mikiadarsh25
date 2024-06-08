@@ -4,7 +4,7 @@
 
 
 - Currently working as a Member of Techanical Staff -2 at Aquera.❤
-- 🔭 I’m currently working on BAckend Development with Node.JS😋 
+- 🔭 I’m currently working on Backend Development with Node.JS😋 
 - 🌱 I’m currently learning Node.JS as an Hobby !!!
 - 😊 Skills: Quick Learner in All Field 😉
 - 😜 Ask me: About any tech stack i know about 😎
