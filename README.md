@@ -3,10 +3,9 @@
 𝗜'𝗺 [Adarsh]([https://mikiadarsh25.github.io/test.github.io/])
 
 
-- 𝑰 𝒂𝒎 𝒂 𝑪𝒐𝒍𝒍𝒆𝒈𝒆 𝒔𝒕𝒖𝒅𝒆𝒏𝒕 : Mechanical Engineering ❤
-- 🔭 I’m currently working on Making some unique things with Python 😋 
-- 🌱 I’m currently learning Python as an Hobby !!!
-- ⚡ Fun fact: I'm just an ![age](https://img.shields.io/badge/age-22-blue)  😄
+- Currently working as a Member of Techanical Staff -2 at Aquera.❤
+- 🔭 I’m currently working on BAckend Development with Node.JS😋 
+- 🌱 I’m currently learning Node.JS as an Hobby !!!
 - 😊 Skills: Quick Learner in All Field 😉
 - 😜 Ask me: About any tech stack i know about 😎
 
