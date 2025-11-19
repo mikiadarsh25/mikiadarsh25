@@ -1,24 +1,49 @@
-<!-- ======================== HEADER & BADGES ======================== -->
+<!-- =========================================================
+ 🎯 ADARSH PRAKASH - GITHUB PROFILE README
+========================================================= -->
 
+<!-- Centered GitRoll + Views -->
 <div align="center">
-  <!-- GitRoll Badge (update with your own GitRoll profile & badge URL) -->
-  <!-- Get yours from: https://gitroll.io -->
+
+  <!-- GitRoll Badge (➡️ update with your real profile & badge ID) -->
   <a href="https://gitroll.io/profile/YOUR_GITROLL_PROFILE_ID" target="_blank">
     <img src="https://gitroll.io/api/badges/profiles/v1/YOUR_GITROLL_BADGE_ID" alt="GitRoll Profile Badge" />
   </a>
+
+  <br /><br />
+
+  <!-- Profile Views -->
+  <img src="https://visitcount.itsvg.in/api?id=mikiadarsh25&icon=0&color=0" alt="Profile Views" />
 </div>
+
+<br />
+
+<!-- ======================== HEADER ======================== -->
 
 <!-- Banner/Profile Image -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:56CCF2&height=200&section=header&text=Hi%20there,%20I'm%20Adarsh!%20👋&fontSize=40&fontAlignY=35&desc=Backend%20Developer%20|%20AWS%20Enthusiast&descSize=20&animation=twinkling"/>
 </p>
 
+<!-- Typing SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Specialist+%7C+AWS+Cloud+Expert;Problem+Solver+%7C+Agile+Team+Player;Always+up+for+a+challenge!&center=true&width=600&height=45" />
 </p>
 
+<!-- Socials quick row -->
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=mikiadarsh25&icon=0&color=0" />
+  <a href="https://linkedin.com/in/mikiadarsh25">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/adarsh_mickey">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@mikiadarsh25">
+    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://quora.com/profile/mikiadarsh25">
+    <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -36,48 +61,58 @@
 
 ---
 
-<!-- ======================== FUN CONTRIBUTION VISUALS ======================== -->
+<!-- ======================== BIG WIDGET ZONE ======================== -->
+
+## 🧩 Widgets & Activity
 
 <div align="center">
 
-  <!-- Pac-Man Contribution Graph -->
-  <!-- Requires you to generate these svgs & place under .github/images -->
+  <!-- 🏆 GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=mikiadarsh25&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+
+  <br /><br />
+
+  <!-- 📊 Classic Stats + Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mikiadarsh25&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikiadarsh25&theme=dark&hide_border=false&layout=compact" height="170" />
+
+  <br /><br />
+
+  <!-- 🔥 Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikiadarsh25&theme=dark&hide_border=false" height="170" />
+
+  <br /><br />
+
+  <!-- 📉 Activity Graph -->
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mikiadarsh25&theme=react-dark&bg_color=0D1117&hide_border=true&line=07D8FF&point=9600bf&color=FFFFFF" 
+    width="100%" 
+    alt="Activity Graph" 
+  />
+
+  <br /><br />
+
+  <!-- 🕹 Pac-Man Contribution Graph (you must have these SVGs in .github/images/) -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset=".github/images/github-contribution-grid-pacman-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset=".github/images/github-contribution-grid-pacman.svg" />
     <img alt="GitHub Pac-Man contribution graph" src=".github/images/github-contribution-grid-pacman.svg" />
   </picture>
-  
-  <!-- Snake Contribution Graph -->
-  <!-- Usually generated via a GitHub Action like Platane/snk -->
+
+  <br /><br />
+
+  <!-- 🐍 Snake Contribution Graph (from Platane/snk GitHub Action) -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset=".github/images/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset=".github/images/github-contribution-grid-snake.svg" />
     <img alt="GitHub Snake contribution graph" src=".github/images/github-contribution-grid-snake.svg" />
   </picture>
 
-  <!-- Activity Graph -->
-  <div align="center">
-    <img 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=mikiadarsh25&theme=react-dark&bg_color=0D1117&hide_border=true&line=07D8FF&point=9600bf&color=FFFFFF" 
-      width="100%" 
-      alt="Activity Graph" 
-    />
-  </div>
-</div>
+  <br /><br />
 
----
-
-<!-- ======================== GITHUB METRICS ======================== -->
-
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30" height="30" style="margin-right: 10px;">
-    <b>GitHub Metrics</b>
-    <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30" height="30" style="margin-left: 10px;">
-  </h2>
-  <!-- You can generate this from: https://github.com/lowlighter/metrics -->
+  <!-- 📊 Advanced GitHub Metrics (generated via lowlighter/metrics) -->
   <img src=".github/images/github-metrics.svg" width="100%" alt="Detailed GitHub Metrics" />
+
 </div>
 
 ---
@@ -123,21 +158,6 @@
 
 ---
 
-<!-- ======================== GITHUB STATS ======================== -->
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mikiadarsh25&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikiadarsh25&theme=dark&hide_border=false&layout=compact" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikiadarsh25&theme=dark&hide_border=false" height="180" />
-</p>
-
----
-
 <!-- ======================== FEATURED PROJECTS ======================== -->
 
 ## 📌 Featured Projects
@@ -146,22 +166,11 @@
 - ✨ [Node Dynamo Toolkit](https://github.com/mikiadarsh25/node-dynamo-toolkit): Utility suite for Node.js & DynamoDB integration  
 - ✨ [Cloud Automation Scripts](https://github.com/mikiadarsh25/cloud-automation-scripts): Bash & Python scripts for AWS resource automation  
 
-> 💡 _Swap these with your real repos & descriptions for maximum impact._
+> 💡 _Replace these with your real repos & descriptions for maximum impact._
 
 ---
 
-<!-- ======================== CONNECT ======================== -->
-
-## 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mikiadarsh25)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/adarsh_mickey)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge)](https://medium.com/@mikiadarsh25)
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/mikiadarsh25)
-
----
-
-<!-- ======================== FUN FACTS & QUOTE ======================== -->
+<!-- ======================== FUN FACTS ======================== -->
 
 ## 🌱 Fun Facts
 
@@ -172,4 +181,30 @@
 
 ---
 
-> "Code is like humor. When you have to explain it, it's bad." – Cory House
+<!-- ======================== BONUS / OPTIONAL WIDGETS ======================== -->
+<!-- Uncomment and configure these if you use the services -->
+
+<!-- 
+## 🧾 Additional Badges
+
+<div align="center">
+
+  <!-- Daily.dev DevCard -->
+  <!-- <a href="https://app.daily.dev/YOUR_DAILYDEV_USERNAME">
+    <img src="https://api.daily.dev/devcards/YOUR_DAILYDEV_CARD_ID.png?r=xyz" width="300" alt="Adarsh's Dev Card"/>
+  </a> -->
+
+  <!-- Holopin -->
+  <!-- <a href="https://holopin.io/@YOUR_HOLOPIN_HANDLE">
+    <img src="https://holopin.me/YOUR_HOLOPIN_HANDLE" alt="Holopin Badges"/>
+  </a> -->
+
+  <!-- LeetCode Stats -->
+  <!-- <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&ext=heatmap" alt="LeetCode Stats" /> -->
+
+</div>
+-->
+
+<!-- ======================== QUOTE ======================== -->
+
+> _"Code is like humor. When you have to explain it, it's bad."_ – Cory House
