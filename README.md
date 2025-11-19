@@ -1,13 +1,29 @@
+<!-- ======================== HEADER & BADGES ======================== -->
+
+<div align="center">
+  <!-- GitRoll Badge (update with your own GitRoll profile & badge URL) -->
+  <!-- Get yours from: https://gitroll.io -->
+  <a href="https://gitroll.io/profile/YOUR_GITROLL_PROFILE_ID" target="_blank">
+    <img src="https://gitroll.io/api/badges/profiles/v1/YOUR_GITROLL_BADGE_ID" alt="GitRoll Profile Badge" />
+  </a>
+</div>
+
 <!-- Banner/Profile Image -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:56CCF2&height=200&section=header&text=Hi%20there,%20I'm%20Adarsh!%20👋&fontSize=40&fontAlignY=35&desc=Backend%20Developer%20|%20AWS%20Enthusiast&descSize=20&animation=twinkling"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Specialist+%7C+AWS+Cloud+Expert;Problem+Solver+%7C+Agile+Team+Player;Always+up+for+a+challenge!&center=true&width=500&height=40" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Specialist+%7C+AWS+Cloud+Expert;Problem+Solver+%7C+Agile+Team+Player;Always+up+for+a+challenge!&center=true&width=600&height=45" />
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=mikiadarsh25&icon=0&color=0" />
 </p>
 
 ---
+
+<!-- ======================== ABOUT ME ======================== -->
 
 ## 👨‍💻 About Me
 
@@ -20,9 +36,57 @@
 
 ---
 
+<!-- ======================== FUN CONTRIBUTION VISUALS ======================== -->
+
+<div align="center">
+
+  <!-- Pac-Man Contribution Graph -->
+  <!-- Requires you to generate these svgs & place under .github/images -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset=".github/images/github-contribution-grid-pacman-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset=".github/images/github-contribution-grid-pacman.svg" />
+    <img alt="GitHub Pac-Man contribution graph" src=".github/images/github-contribution-grid-pacman.svg" />
+  </picture>
+  
+  <!-- Snake Contribution Graph -->
+  <!-- Usually generated via a GitHub Action like Platane/snk -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset=".github/images/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset=".github/images/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Snake contribution graph" src=".github/images/github-contribution-grid-snake.svg" />
+  </picture>
+
+  <!-- Activity Graph -->
+  <div align="center">
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=mikiadarsh25&theme=react-dark&bg_color=0D1117&hide_border=true&line=07D8FF&point=9600bf&color=FFFFFF" 
+      width="100%" 
+      alt="Activity Graph" 
+    />
+  </div>
+</div>
+
+---
+
+<!-- ======================== GITHUB METRICS ======================== -->
+
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30" height="30" style="margin-right: 10px;">
+    <b>GitHub Metrics</b>
+    <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30" height="30" style="margin-left: 10px;">
+  </h2>
+  <!-- You can generate this from: https://github.com/lowlighter/metrics -->
+  <img src=".github/images/github-metrics.svg" width="100%" alt="Detailed GitHub Metrics" />
+</div>
+
+---
+
+<!-- ======================== TECH STACK ======================== -->
+
 ## 🚀 Tech Stack
 
-### Cloud & DevOps
+### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
 ![ECS](https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazon-ecs&logoColor=white)
@@ -36,7 +100,7 @@
 ![AWS Scheduler](https://img.shields.io/badge/Scheduler-4B612C?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-### Backend
+### 🧠 Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -46,18 +110,20 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
 
-### Frontend
+### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Tools
+### 🔧 Tools
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
+
+<!-- ======================== GITHUB STATS ======================== -->
 
 ## 📈 GitHub Stats
 
@@ -65,20 +131,26 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mikiadarsh25&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikiadarsh25&theme=dark&hide_border=false&layout=compact" height="180" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikiadarsh25&theme=dark&hide_border=false" height="180" />
 </p>
 
 ---
 
+<!-- ======================== FEATURED PROJECTS ======================== -->
+
 ## 📌 Featured Projects
 
-<!-- Swap these with your real project names and links -->
-- ✨ [Project Alpha](https://github.com/mikiadarsh25/project-alpha): High-performance API gateway using AWS Lambda & API Gateway
-- ✨ [Node Dynamo Toolkit](https://github.com/mikiadarsh25/node-dynamo-toolkit): Utility suite for Node.js & DynamoDB integration
-- ✨ [Cloud Automation Scripts](https://github.com/mikiadarsh25/cloud-automation-scripts): Bash & Python scripts for AWS resource automation
+- ✨ [Project Alpha](https://github.com/mikiadarsh25/project-alpha): High-performance API gateway using AWS Lambda & API Gateway  
+- ✨ [Node Dynamo Toolkit](https://github.com/mikiadarsh25/node-dynamo-toolkit): Utility suite for Node.js & DynamoDB integration  
+- ✨ [Cloud Automation Scripts](https://github.com/mikiadarsh25/cloud-automation-scripts): Bash & Python scripts for AWS resource automation  
+
+> 💡 _Swap these with your real repos & descriptions for maximum impact._
 
 ---
+
+<!-- ======================== CONNECT ======================== -->
 
 ## 🤝 Let's Connect
 
@@ -89,17 +161,15 @@
 
 ---
 
+<!-- ======================== FUN FACTS & QUOTE ======================== -->
+
 ## 🌱 Fun Facts
 
-- 🎵 Coding is best with a good playlist
-- 🌏 I love exploring new places and cuisines
-- 🕹️ Always up for learning new frameworks & tools
-- 🏏 Cricket fan and sports enthusiast
+- 🎵 Coding is best with a good playlist  
+- 🌏 I love exploring new places and cuisines  
+- 🕹️ Always up for learning new frameworks & tools  
+- 🏏 Cricket fan and sports enthusiast  
 
 ---
 
-> "Code is like humor. When you have to explain it, it's bad." - Cory House
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=mikiadarsh25&icon=0&color=0" />
-</p>
+> "Code is like humor. When you have to explain it, it's bad." – Cory House
